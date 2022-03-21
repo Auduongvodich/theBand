@@ -170,7 +170,8 @@ ul {
     position: relative;
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/assets/img/slider/chicago.jpg') top center / cover no-repeat;
+/*     theBand */
+    background: url('/theBand/assets/img/slider/chicago.jpg') top center / cover no-repeat;
 
 }
 
